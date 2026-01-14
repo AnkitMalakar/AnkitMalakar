@@ -83,5 +83,5 @@ I’m **Ankit Malakar**, a **WordPress Developer & Automation Engineer** with **
 
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/ankitmalakar/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/AnkitMalakar/count.svg" alt="Visitor Count" />
 </div>
