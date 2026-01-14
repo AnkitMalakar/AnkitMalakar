@@ -59,15 +59,6 @@ I’m **Ankit Malakar**, a **WordPress Developer & Automation Engineer** with **
 
 ---
 
-## 📽️ Featured Projects:
-- 🏨 **Hotel360.cloud** – Hospitality SaaS Platform
-- 🛍️ **Wonder Tree Organics** – WooCommerce Store
-- 🏢 **Trusted Communities** – Community Portal
-- 🧠 **Unizyr** – SaaS Website
-- 🏨 **Superior Stay Hotel** – Hotel Website
-
----
-
 ## 📚 Currently Learning:
 - ⚡ Advanced WordPress Plugin Architecture
 - 🔁 Scalable n8n Automation
